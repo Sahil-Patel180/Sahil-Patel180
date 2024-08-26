@@ -1,5 +1,5 @@
 ## 💫 About Me:
-I'm  pursuing BCA Data Science at SRM Institute of Science and Technology
+I'm pursuing II BCA-Data Science at SRM Institute of Science and Technology, Chennai
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-patel-0b7262281/)
