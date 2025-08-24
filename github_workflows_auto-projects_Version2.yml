@@ -1,42 +1,32 @@
-name: Update Highlight Projects
+name: Update Projects
+
 on:
   schedule:
-    - cron: "15 2 * * *"  # Daily at 02:15 UTC
+    - cron: '0 0 * * *' # Runs once a day
   workflow_dispatch:
-permissions:
-  contents: write
-  pull-requests: read
+
 jobs:
   update-projects:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v4
         with:
-          python-version: "3.11"
+          python-version: '3.x'
 
-      - name: Install deps (none required)
-        run: echo "No external dependencies."
+      - name: Install dependencies
+        run: pip install requests PyGithub
 
-      - name: Run project update script
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          TARGET_USERNAME: Sahil-Patel180
-          MAX_REPOS: "3"
-          README_PATH: README.md
-        run: python scripts/update_projects.py
+      - name: Run update script
+        run: python scripts_update_projects.py
 
-      - name: Commit & push if changed
+      - name: Commit and Push changes
         run: |
-          if [[ -n "$(git status --porcelain)" ]]; then
-            git config user.name "github-actions[bot]"
-            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add README.md
-            git commit -m "chore: auto-update highlight projects [skip ci]"
-            git push
-          else
-            echo "No changes to commit."
-          fi
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Updated latest projects in README"
+          git push
