@@ -32,23 +32,19 @@
 
 ### 📈 GitHub Visuals
 <p align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Sahil-Patel180&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.ryo-ma.dev/?username=Sahil-Patel180&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true" alt="Trophies" />
 </p>
 
 <p align="center">
-  <!-- Stats and Top Languages side by side -->
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sahil-Patel180&show_icons=true&theme=tokyonight" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Patel180&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <!-- GitHub Streak -->
   <img src="https://streak-stats.demolab.com?user=Sahil-Patel180&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahil-Patel180&theme=react-dark&hide_border=true&area=true" />
 </p>
 
