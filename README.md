@@ -1,7 +1,7 @@
 <!-- Profile README for: Sahil-Patel180 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f2027,100:203a43&height=240&section=header&text=Sahil%20Patel&fontColor=ffffff&fontSize=60&animation=fadeIn&desc=Data%20Analytics%20%7C%20Dashboards%20%26%20ML%20Prototyping&descAlignY=65&descSize=18" alt="Header Image">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9FF&center=true&vCenter=true&width=435&lines=Hi+I'm+Sahil+Patel;Data+Science+Enthusiast;Aspiring+Data+Analyst" alt="Typing SVG" />
 </p>
 
 <p align="center">
