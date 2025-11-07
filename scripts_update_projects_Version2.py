@@ -3,7 +3,7 @@ import os
 from datetime import datetime
 
 # Your GitHub username
-USERNAME = "YourGitHubUsername"
+USERNAME = Sahil-Patel180
 README_FILE = "README.md"
 
 def fetch_repos(username, count=5):
