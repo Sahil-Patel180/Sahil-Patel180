@@ -21,7 +21,7 @@ jobs:
         run: pip install requests PyGithub
 
       - name: Run update script
-        run: python scripts_update_projects.py
+        run: python scripts_update_projects_Version2.py
 
       - name: Commit and Push changes
         run: |
