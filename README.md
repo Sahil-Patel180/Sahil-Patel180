@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://sahil-patel180.github.io/Sahil_Patel_Portfolio/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=brave&logoColor=FF7139&badge&color=black" /></a>
+  <a href="https://portfolio-sahilpatel.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=brave&logoColor=FF7139&badge&color=black" /></a>
   <a href="https://www.linkedin.com/in/sahil-patel-0b7262281/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FF7139&badge&color=black" /></a>
   <a href="https://instagram.com/sahil18047"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FF7139&badge&color=black" /></a>
   <a href="mailto:nsahil.patel8@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=FF7139&badge&color=black" /></a>
@@ -162,7 +162,7 @@ Curiosity + consistency compounds insight.
 
 ### 📬 Connect
 <p align="center">
-  <a href="https://sahil-patel180.github.io/Sahil_Patel_Portfolio/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=brave&logoColor=FF7139&badge&color=black" /></a>
+  <a href="https://portfolio-sahilpatel.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=brave&logoColor=FF7139&badge&color=black" /></a>
   <a href="https://www.linkedin.com/in/sahil-patel-0b7262281/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FF7139&badge&color=black" /></a>
   <a href="https://instagram.com/sahil18047"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FF7139&badge&color=black" /></a>
   <a href="mailto:nsahil.patel8@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=FF7139&badge&color=black" /></a>
