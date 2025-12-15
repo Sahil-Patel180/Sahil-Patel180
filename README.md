@@ -33,7 +33,7 @@
 
 ### 📈 GitHub Visuals
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sahil-Patel180&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sahil-Patel180&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sahil-Patel180&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil-Patel180&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
